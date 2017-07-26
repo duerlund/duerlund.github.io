@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: Hello World
+description: More hellos to the world!
+show_downloads: false
